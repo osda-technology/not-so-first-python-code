@@ -1,6 +1,6 @@
 # not-so-first-python-code
 
-This is a my not-so-first python project.
+This is my not-so-first python project.
 
 I just learned python intensively 2-3 weeks ago. I joined IBM Data Science Certification in Coursera because I want to transition my career from digital marketing (SEO & FB Ads) to something different.
 
